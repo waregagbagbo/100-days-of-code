@@ -21,4 +21,5 @@
 **Thoughts:** I have always desired to become a full stack dev and Odin Project is just a way to remind myself of the content I used to read with no practice.
 
 **Link to work:* Landing Page(In Progress-3 day Html,css project)
+                 Day 1. Structure, git repo, add the menus and global css
 
