@@ -22,4 +22,7 @@
 
 **Link to work:* Landing Page(In Progress-3 day Html,css project)
                  29th June. Structure, git repo, add the menus and global css
+                 30th June . Hero section, and the services section
+                 
+                
 
