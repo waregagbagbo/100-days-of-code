@@ -23,6 +23,18 @@
 **Link to work:* Landing Page(In Progress-3 day Html,css project)
                  29th June. Structure, git repo, add the menus and global css<br/>
                  30th June . Hero section, and the services section
+                 1st  July. About-Services and Footer.
+                 2nd Css more Css styling and Publish
+                 3rd Rest Day.
+ 
+## Day 8: July 04 , 2022 (Example 3)
+##### (delete me or comment me out)
+
+**Today's Progress**:Worked on Basic Javascript Odin Project(Variables, Operators and Concatenatio)
+**Thoughts:** I have always desired to become a full stack dev and Odin Project is just a way to remind myself of the content I used to read with no practice.
+
+                 
+   
                  
                 
 
