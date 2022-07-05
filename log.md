@@ -14,6 +14,7 @@
 
 **Today's Progress**: Completed triplet exercise on Hackerank Data Structures
 **Thoughts:** Learning DSA, Lux Academy.
+
 ## Day 3: June 29 , 2022 (Example 3)
 ##### (delete me or comment me out)
 
@@ -24,5 +25,14 @@
                  29th June. Structure, git repo, add the menus and global css<br/>
                  30th June . Hero section, and the services section
 
-                
+ ## Day 8: July 04 , 2022 (Example 3)
+##### (delete me or comment me out)
 
+**Today's Progress**:Started Javascript on Odin Project<br/>
+**Thoughts:** I have always desired to become a full stack dev and Odin Project is just a way to remind myself of the content I used to read with no practice.               
+
+## Day 9: July 05 , 2022 (Example 3)
+##### (delete me or comment me out)
+
+**Today's Progress**:Worked on Javascript Operators<br/>
+**Thoughts:** I have always desired to become a full stack dev and Odin Project is just a way to remind myself of the content I used to read with no practice.
