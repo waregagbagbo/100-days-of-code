@@ -40,4 +40,5 @@
 ##### (delete me or comment me out)
 
 **Today's Progress**:Worked on Python Django pdf and csv conversions<br/>
+                     Practiced and brushed over Javascript conditons and operators
 **Thoughts:** I have always desired to become a full stack dev and Odin Project is just a way to remind myself of the content I used to read with no practice.
