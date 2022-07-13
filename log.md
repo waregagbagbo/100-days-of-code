@@ -43,7 +43,7 @@
                      Practiced and brushed over Javascript conditons and operators<br/>
 **Thoughts:** I have always desired to become a full stack dev and Odin Project is just a way to remind myself of the content I used to read with no practice.
 
-## Day 11: July 12 , 2022
+## Day 11,12,13: July 12-14 , 2022
 **Today's Progress**:Started Javascript functions on the Odin Project <br/>
                      Worked on the Master theorem on DSA
 **Thoughts:** I have always desired to become a full stack dev and Odin Project is just a way to remind myself of the content I used to read with no practice.
