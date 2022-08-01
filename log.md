@@ -48,7 +48,7 @@
                      Worked on the Master theorem on DSA<br/>
 **Thoughts:** I have always desired to become a full stack dev and Odin Project is just a way to remind myself of the content I used to read with no practice.
 
-## Day 15: August , 2022
-**Today's Progress**: Studied Big O notation in python.
+## Day 15: 1 August , 2022
+**Today's Progress**: Studied Big O notation in python and Sorting Algo.
 **Thoughts:** I have always desired to become a full stack dev and Odin Project is just a way to remind myself of the content I used to read with no practice
 
